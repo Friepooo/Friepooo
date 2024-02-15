@@ -2,7 +2,7 @@
 <h3 align="center">I'm currently learning HTML, CSS and Javascript</h3>
 
 
-<p align="left"> <a href="https://www.instagram.com/frisoderuiter/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/48px-Instagram_logo_2016.svg.png"></a></p>
+<p align="left"> <a href="https://www.instagram.com/frisoderuiter/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/48px-Instagram_logo_2016.svg.png"></a></p>
 
 - 👋 Hi, I’m @Friepooo
 - 🌱 I’m currently learning HTML, CSS and JavaScript
