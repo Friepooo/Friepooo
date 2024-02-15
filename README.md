@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 🎈 I'm currently making some simple sites, for school.
 - 📚 Mostly working on school projects.
+- 🤖 I ❤️ ChatGPT, cntrl + c, cntrl + v
 - 📫 Need to contact your Friepooo? Discord me on friso.mprp
 
 <!---
