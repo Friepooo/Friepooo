@@ -10,7 +10,7 @@
 - 🤖 I ❤️ ChatGPT, cntrl + c, cntrl + v
 - 📫 Need to contact your Friepooo? Discord me on friso.mprp
 
-<p align="left"> <a href="https://www.instagram.com/frisoderuiter/">Bonjour</a></p>
+<p align="left"> <a href="https://www.instagram.com/frisoderuiter/" target="blank">Instagramr</a></p>
 
 <!---
 Friepooo/Friepooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
