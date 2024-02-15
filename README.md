@@ -1,7 +1,11 @@
+<H1 align="center">Hey! I'm Friepooo</H1>
+<h3 align="center">I'm currently learning HTML, CSS and Javascript</h3>
+
+
 - 👋 Hi, I’m @Friepooo
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🎈 I'm currently making some simple sites, for school.
+- 📚 Mostly working on school projects.
 - 📫 Need to contact your Friepooo? Discord me on friso.mprp
 
 <!---
